@@ -7,7 +7,7 @@ Project Description:
 
 This project was a collaborative effort to analyze the discourse around COVID-19 on Twitter using network analysis techniques. As the pandemic swept the globe in early 2020, Twitter became a central platform for public conversations and discourse about the virus.
 
-Our team aimed to explore these discussions and provide insights into the behaviour and sentiment of Twitter users regarding COVID-19. We used Python and libraries such as Tweepy, networks, and Matplotlib to extract and analyze a large dataset of tweets containing COVID-19-related keywords.
+Our team aimed to explore these discussions and provide insights into the behaviour and sentiment of Twitter users regarding COVID-19. We used Python and libraries such as Tweepy, networkx, and Matplotlib to extract and analyze a large dataset of tweets containing COVID-19-related keywords.
 
 Our analysis focused on three specific areas:
 * Identifying echo chambers on Twitter, where users interact mainly with people who share their opinions.
